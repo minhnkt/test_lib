@@ -1,4 +1,4 @@
-// var xmlHttp;
+/// var xmlHttp;
 // function srvTime(){
 //     try {
 //         //FF, Opera, Safari, Chrome
